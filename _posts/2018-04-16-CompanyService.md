@@ -1,4 +1,4 @@
 ---
-layout: TrainingService
+layout: CompanyService
 ---
 

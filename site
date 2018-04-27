@@ -1,0 +1,9 @@
+
+1
+2
+3
+4
+echo "mstechno.ir" > CNAME
+git add --all
+git commit -m "Add CNAME"
+git push -u origin master

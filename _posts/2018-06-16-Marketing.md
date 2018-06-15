@@ -1,3 +1,3 @@
 ---
-layout: About
+layout: Marketing
 ---
